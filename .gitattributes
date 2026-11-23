@@ -1,0 +1,3 @@
+# Keep dataset files byte-exact so SHA-256 hashes in DATA_HASHES.json /
+# PROJECT_MANIFEST.json verify on every platform (no CRLF conversion).
+data/** -text

@@ -1,0 +1,27 @@
+{
+  "seed": 20261123,
+  "ticks": 2400,
+  "venues": [
+    "NORTH",
+    "SOUTH"
+  ],
+  "symbols": {
+    "ALPHA": [
+      100.0,
+      0.01
+    ],
+    "BETA": [
+      45.0,
+      0.01
+    ],
+    "GAMMA": [
+      210.0,
+      0.05
+    ]
+  },
+  "rows": 14400,
+  "train_end": 1199,
+  "validation_end": 1799,
+  "tick_seconds": 5,
+  "synthetic": true
+}
